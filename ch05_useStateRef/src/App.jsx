@@ -6,6 +6,7 @@ import Body3 from './component/Body3';
 import Body4 from './component/Body4';
 import Body6 from './component/Body6';
 import Like from './component/Like';
+import Body9 from './component/Body9';
 
 function App() {
   return (
@@ -18,6 +19,8 @@ function App() {
         <Body4 />      
         <Body6 />
         <Like />
+        <Body9 />
+
     </div>
     </>
   )
